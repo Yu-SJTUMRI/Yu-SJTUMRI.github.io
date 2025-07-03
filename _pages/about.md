@@ -30,7 +30,7 @@ Selected Publications
 
 Honors & Awards
 ------
-- 2023, China Postdoctoral Science Foundation \- Special Funding Program
+- 2023, China Postdoctoral Science Foundation - Special Funding Program
 - 2022，Shanghai Post-doctoral Excellence Program
 
 Academic Appointments
