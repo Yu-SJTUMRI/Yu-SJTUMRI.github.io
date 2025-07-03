@@ -8,7 +8,9 @@ redirect_from:
 ---
 I am a research asssitant professor at [Meta Robotics Institute](https://mri.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), China.
 
-My research interests focus on the neural interaction between human and robotic systems. 
+My research interests focus on the neural interaction between human and robotic systems. Specifically, we develop neural signal decomposition algorithms using non-invasive electromyography, build motion intention decoding models with advanced machine learing (or AI) alogorithms, and analyze the dynamics of neuro-musculoskeletal system through electrophysiological signal and musculoskeletal system modeling. We dedicate to promote the applications of aforementioned research in healthcare field, including prosthesis, exoskeleton, and other robotic systems. Additionally, we are also interested in the dexterous and accurate manipulation of dual-arm robots with dexterous hands.
+
+I have publised more than 30 journal and conference papers, inlcuding Nature Biomedical Engineering, IEEE JBHI, IEEE TIE, Cyborg and Bionic Systems, IEEE TNSRE, et al. I also lead several research programs, including **Young Scientist Programme of National Natural Science Foundation of China (NSFC)**, **Special Funding Program of China Postdoctoral Science Foundation (CPSF)**, and General Funding Program of CPSF.
 
 Education
 ------
@@ -19,6 +21,11 @@ Reasearch Experience
 ------
 - 2024-Now, Reseach Assitant Professor, [Meta Robotics Institute](https://mri.sjtu.edu.cn/), Shanghai Jiao Tong University
 - 2021-2024, PostDoc, [School of Mechanical Engineering](https://me.sjtu.edu.cn/), Shanghai Jiao Tong University
+
+Reasearch Interests
+------
+- **Neural interaction**: neural signal decoding, motion intention recognition, AI-driven electrophysiological signal modeling, prosthesis control
+- **Robotic Manipulation**
 
 Selected Publications
 ------
