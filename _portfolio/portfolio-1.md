@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "First-year anniversary of Meta Robotics Institute @SJTU, 2022"
+excerpt: "We celebrate the 1-st anniversary of Meta Robotics Institute @SJTU<br/><img src='/images/FirstAnniversaryofMRI.png'>"
 collection: portfolio
 ---
 
