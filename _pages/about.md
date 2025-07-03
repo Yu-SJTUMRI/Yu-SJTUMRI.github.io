@@ -26,13 +26,13 @@ Reasearch Interests
 ------
 - **Neural interaction**:
 
-   neural signal decoding
+   \* neural signal decoding
 
-   motion intention recognition
+   \* motion intention recognition
 
-   AI-driven electrophysiological signal modeling
+   \* AI-driven electrophysiological signal modeling
 
-   prosthesis control
+   \* prosthesis control
   
 - **Robotic Manipulation**
 
