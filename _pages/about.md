@@ -19,7 +19,7 @@ Education
 
 Reasearch Experience
 ------
-- 2024-Now, Reseach Assitant Professor, [Meta Robotics Institute](https://mri.sjtu.edu.cn/), Shanghai Jiao Tong University
+- 2024-Now, Research Assitant Professor, [Meta Robotics Institute](https://mri.sjtu.edu.cn/), Shanghai Jiao Tong University
 - 2021-2024, PostDoc, [School of Mechanical Engineering](https://me.sjtu.edu.cn/), Shanghai Jiao Tong University
 
 Reasearch Interests
@@ -53,4 +53,4 @@ Honors & Awards
 
 Academic Appointments
 ------
-- I serve as the reviewers of many high-level journals, including ***IEEE-JBHI***, ***IEEE-TNSRE***, ***IEEE TBME***, ***Knowledge-based Systems***, ***Cyborg and Bionic Systems***, ***Neurocomputing*** and ***JNE***.
+- I serve as the reviewers of several high-level journals, including ***IEEE-JBHI***, ***IEEE-TNSRE***, ***IEEE TBME***, ***Knowledge-based Systems***, ***Cyborg and Bionic Systems***, ***Neurocomputing*** and ***JNE***.
