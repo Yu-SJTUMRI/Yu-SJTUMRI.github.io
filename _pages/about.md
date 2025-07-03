@@ -14,7 +14,7 @@ I have publised more than 30 journal and conference papers, inlcuding Nature Bio
 
 Education
 ------
-- 2011-2015, B.S. in Mechanical Engineering, Hefei Uiversity of Technology
+- 2011-2015, B.S. in Mechanical Engineering, Hefei University of Technology
 - 2015-2021, Ph.D in Mechanical Engineering, Shanghai Jiao Tong University
 
 Reasearch Experience
@@ -26,13 +26,13 @@ Reasearch Interests
 ------
 - **Neural interaction**
 
-   \* neural signal decoding
+   \* Neural signal decoding
 
-   \* motion intention recognition
+   \* Motion intention recognition
 
    \* AI-driven electrophysiological signal modeling
 
-   \* prosthesis control
+   \* Prosthesis control
   
 - **Robotic Manipulation**
 
