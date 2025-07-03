@@ -29,8 +29,10 @@ Reasearch Interests
    neural signal decoding
 
    motion intention recognition
-AI-driven electrophysiological signal modeling
-prosthesis control
+
+   AI-driven electrophysiological signal modeling
+
+   prosthesis control
   
 - **Robotic Manipulation**
 
