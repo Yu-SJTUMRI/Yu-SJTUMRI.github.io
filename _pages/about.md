@@ -8,7 +8,7 @@ redirect_from:
 ---
 I am a research asssitant professor at [Meta Robotics Institute](https://mri.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), China.
 
-I 
+My research interests focus on the neural interaction between human and robotic systems. 
 
 Education
 ------
@@ -30,8 +30,10 @@ Selected Publications
 
 Honors & Awards
 ------
-- 2023, China Postdoctoral Science Foundation - Special Funding Program
-- 2022, Shanghai Post-doctoral Excellence Program
+- China Postdoctoral Science Foundation - Special Funding Program, Ministry of Human Resources and Social Security of China, 2023
+- Shanghai Post-doctoral Excellence Program, Shanghai, 2022
+- Liyuan Post-doctoral Excellence Program, School of Mechanical Engieering @SJTU, 2021
+- National Scholarship Award, Chinese Ministry of Education, 2012, 2013, 2014
 
 Academic Appointments
 ------
