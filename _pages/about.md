@@ -31,8 +31,8 @@ Selected Publications
 Honors & Awards
 ------
 - 2023, China Postdoctoral Science Foundation - Special Funding Program
-- 2022，Shanghai Post-doctoral Excellence Program
+- 2022, Shanghai Post-doctoral Excellence Program
 
 Academic Appointments
 ------
-- I serve as the reviewers of many high-level journals, including IEEE-JBHI, IEEE-TNSRE, IEEE TBME, Knowledge-based Systems, Cyborg and Bionic Systems, Neurocomputing and JNE.
+- I serve as the reviewers of many high-level journals, including ***IEEE-JBHI***, ***IEEE-TNSRE***, ***IEEE TBME***, ***Knowledge-based Systems***, ***Cyborg and Bionic Systems***, ***Neurocomputing*** and ***JNE***.
