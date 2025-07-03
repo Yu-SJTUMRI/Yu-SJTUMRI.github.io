@@ -24,7 +24,7 @@ Reasearch Experience
 
 Reasearch Interests
 ------
-- **Neural interaction**:
+- **Neural interaction**
 
    \* neural signal decoding
 
