@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Connecting Human and Robots"
+title                    : "Yang Yu's Homepage--Connecting Human and Robots"
 title_separator          : "-"
 name                     : &name "Yang Yu"
 description              : &description "Neural Interaction and Robotics"
