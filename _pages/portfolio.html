@@ -15,6 +15,6 @@ author_profile: true
 {% assign sorted_portfolio = site.portfolio | sort: "weight" | reverse %}
 {% for item in sorted_portfolio %}
   <!-- 显示项目内容 -->
-  <img src="{{ item.image }}" alt="{{ item.title }}">
+  <img src="{{ item.excerpt }}" alt="{{ item.title }}">
   <h3>{{ item.title }}</h3>
 {% endfor %}
