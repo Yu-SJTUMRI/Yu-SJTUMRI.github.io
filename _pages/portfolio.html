@@ -17,6 +17,6 @@ author_profile: true
 {% for item in sorted_portfolio %}
   <!-- 显示项目内容 -->
   <h2>{{ item.title }}</h2>
-  <h2>{{ item.excerpt }}</h2>
+  { item.excerpt }}
   <img src="{{ item.img }}" alt="{{ item.title }}">
 {% endfor %}
