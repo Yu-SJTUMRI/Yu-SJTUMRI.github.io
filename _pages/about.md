@@ -53,4 +53,4 @@ Honors & Awards
 
 Academic Appointments
 ------
-- I serve as the reviewers of several high-level journals, including ***IEEE-JBHI***, ***IEEE-TNSRE***, ***IEEE TBME***, ***Knowledge-based Systems***, ***Cyborg and Bionic Systems***, ***Neurocomputing*** and ***JNE***.
+- I serve as the reviewer of several high-level journals, including ***IEEE-JBHI***, ***IEEE-TNSRE***, ***IEEE TBME***, ***Knowledge-based Systems***, ***Cyborg and Bionic Systems***, ***Neurocomputing*** and ***JNE***.
